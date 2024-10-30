@@ -16,7 +16,7 @@ readme = "README.md"
 
 [dependencies]
 pprof = "0.12"
-pyroscope = { version = "0.5.7", path = "../../", default-features = false }
+pyroscope = { version = "0.5.8", path = "../../", default-features = false }
 thiserror ="1.0"
 log = "0.4"
 

@@ -1,3 +1,5 @@
+"""Packed for Python 3.12."""
+
 import threading
 import warnings
 import logging
